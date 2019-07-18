@@ -7,6 +7,7 @@
 4. Data can improve how we operate and how we serve our clients
 5. Data holds the keys to better questions, it does not simply answer them
 6. We never sell data
+7. We make open all data that we legally, ethically can
 
 
 ## Operating Principles
