@@ -2,7 +2,7 @@
 
 ## High-Level Organizational Docs
 
-_smb://sisflex/Departments/Policy/Data Strategy/Internal Resources/Key Org Docs_
+replace
 
 ## Internal Data/Policy Reports
 
@@ -20,7 +20,7 @@ _smb://sisflex/Departments/Policy/Data Strategy/Internal Resources/Key Org Docs_
 
 ## Data Sources
 
-**Golden Gate data dictionary:** smb://sisflex/Departments/Strategy &amp; Innovation/Data/Internal Resources/CDSS/ Copy of GoldenGate\_Data\_Dictionary\_Working\_Document\_201806121\_kledits\_07...
+**Golden Gate data dictionary:** link Innovation/Data/Internal Resources/CDSS/ Copy of GoldenGate\_Data\_Dictionary\_Working\_Document\_201806121\_kledits\_07...
 
 ## Software/Accounts To Install
 ClickShare to access the conference room share dongles.
@@ -35,14 +35,36 @@ Trello - Spike
 
 Grammatical:
 
-_smb://sisflex/DepartmentsPublic/Communications/SIS Style Guide/SIS Style Guide.docx_
+replace /SIS Style Guide/SIS Style Guide.docx_
 
 Visual: PPT, logo etc
 
-_smb://sisflex/DepartmentsPublic/Communications/Public/Brand Central_
+replace Communications/Public/Brand Central_
 
-Dark blue: 0,32,96 Hex 002060
+Brand Pallete
 
-Orange: 244,117,32 Hex F47520
-
-Font: Raleway/Brutal Black
+Alluma Green
+PANTONE 
+2420 C 
+2420 U 
+Process Coated 
+C80 M0 Y100 K0 
+Process Uncoated 
+C70 M0 Y90 K0 
+RGB 
+R0 G198 B94 
+WEBHEX 
+00C65E 
+ 
+Alluma Slate
+PANTONE
+7545 C
+546 U
+Process Coated
+C58 M32 Y18 K54
+Process Uncoated
+C90 M52 Y45 K45
+RGB
+R66 G85 B99
+WEBHEX
+425563
