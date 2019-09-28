@@ -22,6 +22,13 @@ _smb://sisflex/Departments/Policy/Data Strategy/Internal Resources/Key Org Docs_
 
 **Golden Gate data dictionary:** smb://sisflex/Departments/Strategy &amp; Innovation/Data/Internal Resources/CDSS/ Copy of GoldenGate\_Data\_Dictionary\_Working\_Document\_201806121\_kledits\_07...
 
+## Software/Accounts To Install
+ClickShare to access the conference room share dongles.
+Zoom - conferencing
+GSuite - Duarte
+1Password - Duarte
+GitHub - DL then Spike
+Trello - Spike
 
 
 ## Style Guide

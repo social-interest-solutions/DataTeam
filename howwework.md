@@ -17,3 +17,8 @@ Zoom/Webex calls are our meeting tools
 ## Security
 Where possible, project work will be done on GitHub, however HIPAA is a thing, and some projects need to be in private repos or not here at all.
 No PII or PHI can ever live on GitHub. Or on local machines, without following our security protocols.
+
+## Managing Files and Schedules
+We use Office 365/desktop apps for email and calendars, and our Sharepoint "Data Program" is where internal docs live, and our shared calendar.
+We put travel, major meetings etc on the shared calendar https://outlook.office.com/calendar/group/alluma.org/dataprogram/view/workweek
+The shared calendar works best on the web version of Outlook, adding a new meeting lets you pick to put it on your calendar or the groups.
